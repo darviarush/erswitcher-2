@@ -11,5 +11,3 @@
 _EN—RU Switcher-2_ прослушивает клавиатуру и запоминает последний ввод.
 
 См. [erswitcher](https://github.com/darviarush/erswitcher).
-
-

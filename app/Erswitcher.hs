@@ -1,6 +1,6 @@
 module Main where
 
-import Lib
+import Keyboard
 
 main :: IO ()
-main = someFunc
+main = 
